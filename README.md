@@ -8,10 +8,10 @@ CSS
 This is my first project in Microverse. It's is aimed at learing basic Git/GitHub/GitHub Flow
 
 # Authors
-👤 Author
+Amk lass
 
-GitHub: @amklass11
-LinkedIn: Amk lass
+GitHub:https://github.com/amklass11
+LinkedIn:https://www.linkedin.com/in/amk-lass-521565196/
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
